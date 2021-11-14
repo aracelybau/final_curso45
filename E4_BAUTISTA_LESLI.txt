@@ -1,0 +1,11 @@
+<html>
+<head><title> Animacion de texto </title> </head>
+<body>
+	<marquee scrolldelay="250">
+		<h1> De derecha a izquierda </h1>
+	</marquee>
+	<marquee direcction="right"250">
+		<h1> de izquierda a derecha </h1>
+	</marquee>
+</body>
+</html>
